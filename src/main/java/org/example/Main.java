@@ -6,9 +6,7 @@ import org.example.antlr.*;
 import org.objectweb.asm.ClassWriter;
 import org.objectweb.asm.MethodVisitor;
 import java.io.FileOutputStream;
-
 import static org.objectweb.asm.Opcodes.*;
-
 
 public class Main {
     public static void main(String[] args) throws Exception {
